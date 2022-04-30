@@ -9,8 +9,8 @@
  	
 # EZARCH livegui template
 4RCH linux live gui uses EZARCH lxqt template
-from: https://sourceforge.net/projects/ezarch/
-this specific template: https://sourceforge.net/projects/ezarch/files/Templates/Lxqt-20220422.tar/download
+
+template could be found here: https://sourceforge.net/projects/ezarch/files/Templates/Lxqt-20220422.tar/download
  
 # Calamares Installer
 4RCH linux uses calamares installer
