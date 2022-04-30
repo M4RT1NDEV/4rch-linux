@@ -6,7 +6,7 @@
  	
 # BINARY ISO available here
 
-https://www.mediafire.com/file/tq8ylnoixs4s6v8/ezarcher-lxqt-2022.04.30-x86_64.iso/file	
+https://www.mediafire.com/file/tq8ylnoixs4s6v8/4RCH_Linux_0_1_Beta.iso/file
 
 # BUILD THE ISO
 
