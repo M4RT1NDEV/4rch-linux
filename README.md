@@ -15,6 +15,3 @@ template could be found here: https://sourceforge.net/projects/ezarch/files/Temp
 # Calamares Installer
 4RCH linux uses calamares installer
 https://calamares.io/
- 
-# The name?
-4RCH linux takes the 4 out of the main developer M4DEV and replaces the A in arch. Also 4 looks a lot like A and thats why.
