@@ -14,6 +14,8 @@ https://www.mediafire.com/file/tq8ylnoixs4s6v8/4RCH_Linux_0_1_Beta.iso/file
 
 sudo pacman -Syu
 
+sudo pacman -S --noconfirm archlinux-keyring
+
 sudo pacman -S archiso mkinitcpio-archiso
 
 sudo pacman -S --needed boost cmake extra-cmake-modules libpwquality qt5ct qt5-location qt5-svg qt5-webengine yaml-cpp hwinfo plasma-framework qt5-translations upower kcoreaddons kconfig kpmcore kservice kwidgetsaddons dmidecode doxygen kparts polkit-qt5 python qt5-tools qt5-xmlpatterns solid
