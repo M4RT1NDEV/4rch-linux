@@ -10,7 +10,8 @@ https://www.mediafire.com/file/tq8ylnoixs4s6v8/4RCH_Linux_0_1_Beta.iso/file
 
 # BUILD THE ISO
 
-`git clone https://github.com/M4RT1NDEV/4rch-linux
+```
+git clone https://github.com/M4RT1NDEV/4rch-linux
 
 sudo pacman -Syu
 
@@ -20,7 +21,8 @@ sudo pacman -S archiso mkinitcpio-archiso
 
 sudo pacman -S --needed boost cmake extra-cmake-modules libpwquality qt5ct qt5-location qt5-svg qt5-webengine yaml-cpp hwinfo plasma-framework qt5-translations upower kcoreaddons kconfig kpmcore kservice kwidgetsaddons dmidecode doxygen kparts polkit-qt5 python qt5-tools qt5-xmlpatterns solid
 
-sudo bash steps.sh`
+sudo bash steps.sh
+```
 
 And you should be able to find the iso in the out directory!
 
