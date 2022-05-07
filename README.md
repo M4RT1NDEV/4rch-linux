@@ -6,7 +6,7 @@
  	
 # BINARY ISO available here
 
-https://www.mediafire.com/file/tq8ylnoixs4s6v8/4RCH_Linux_0_1_Beta.iso/file
+
 
 # BUILD THE ISO
 
@@ -30,7 +30,7 @@ And you should be able to find the iso in the out directory!
 
 4RCH linux live gui uses EZARCH lxqt template
 
-template could be found here: https://sourceforge.net/projects/ezarch/files/Templates/Lxqt-20220422.tar/download
+template could be found here: https://www.mediafire.com/file/83yvkypwrviueq7/4rch-lxqt-Alpha-0_2-x86_64.iso/file
  
 # Calamares Installer
 
