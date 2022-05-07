@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="ezarcher-lxqt"
-iso_label="EZARCHER-LXQT_$(date +%Y%m)"
-iso_publisher="Ezarcher Linux <https://sourceforge.net/projects/ezarch/>"
-iso_application="Ezarcher DVD"
-iso_version="$(date +%Y.%m.%d)"
+iso_name="4rch-lxqt"
+iso_label="4RCH-LXQT_$(date +%Y%m)"
+iso_publisher="4RCH Linux <https://github.com/M4RT1NDEV/4rch-linux/>"
+iso_application="4rch DVD"
+iso_version="Alpha-0_2"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')

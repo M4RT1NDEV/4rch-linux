@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# Version: 5.0 -- by eznix (https://sourceforge.net/projects/ezarch/)
-# Revision: 2022.04.10
-# (GNU/General Public License version 3.0)
+# Template Version: 5.0 -- by eznix (https://sourceforge.net/projects/ezarch/)
+# Release Alpha 0.2
 
 # ----------------------------------------
 # Define Variables
@@ -18,7 +17,7 @@ KEYMP="us"
 KEYMOD="pc105"
 # pc105 and pc104 are modern standards, all others need to be researched
 
-MYUSERNM="live"
+MYUSERNM="4rch"
 # use all lowercase letters only
 
 MYUSRPASSWD="4rch"
