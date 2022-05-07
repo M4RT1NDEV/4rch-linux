@@ -2,7 +2,9 @@
 
 4RCH linux is an Arch based linux distribution focused on minimalism while including Calamares installer.
  	
- 	
+# ISO PASSWORD
+
+The ISO password is: 4rch
  	
 # BINARY ISO available here
 
