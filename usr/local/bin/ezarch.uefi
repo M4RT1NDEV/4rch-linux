@@ -33,13 +33,13 @@ welcome () {
   clear
   echo "==================================================="
   echo "=                                                 ="
-  echo "=     Welcome to the Ezarch Installer Script      ="
+  echo "=      Welcome to the 4RCH Installer Script       ="
   echo "=                                                 ="
-  echo "=     UEFI Edition                                ="
-  echo "=     Version 6.5  (Release)                      ="
+  echo "=      UEFI Edition                               ="
+  echo "=      Version 6.5  (Release)                     ="
   echo "=                                                 ="
-  echo "=     Brought to you by eznix                     ="
-  echo "=     https://sourceforge.net/projects/ezarch/    ="
+  echo "=      Brought to you by M4DEV                    ="
+  echo "=      https://github.com/M4RT1NDEV/4rch-linux    ="
   echo "=                                                 ="
   echo -e "=================================================== \n"
   sleep 4

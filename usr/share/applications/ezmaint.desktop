@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=EZ Maint Tool
-Comment=ezmaint tool
+Name=4RCH Maint Tool
+Comment=4rch tool
 Categories=System;
 Keywords=System;
 Exec=pkexec /usr/local/bin/ezmaint
@@ -10,4 +10,4 @@ Icon=/usr/share/icons/default/lava-lamp.png
 Path=/usr/local/bin
 Terminal=true
 StartupNotify=false
-Name=ezmaint
+Name=4rch
