@@ -15,7 +15,7 @@
  *   You should have received a copy of the GNU General Public License
  *   along with Calamares. If not, see <http://www.gnu.org/licenses/>.
  * 
- *   Ezarcher custom settings
+ *   4RCH custom settings
  */
 
 import QtQuick 2.0;
@@ -53,7 +53,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Welcome to Ezarcher, an Arch based Linux<br/>")
+                text: qsTr("<b>Welcome to 4RCH Linux, an Arch based Linux<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
@@ -80,35 +80,8 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Ezarcher is 100% compatible with Arch Linux<br/>")
+                text: qsTr("<b>4RCH aims to be minimal but simple arch based distribution<br/>")
                 
-                wrapMode: Text.WordWrap
-                width: parent.width / 1.4
-                horizontalAlignment: Text.AlignHCenter
-            }
-        }
-    }
-
-	Slide {
-        anchors.fill: parent
-        anchors.verticalCenterOffset: 0
-
-        Image {
-            id: background3
-            source: "slide1.png"
-            width: parent.width; height: parent.height          
-            horizontalAlignment: Image.AlignCenter
-    		verticalAlignment: Image.AlignTop
-
-            anchors.fill: parent
-
-            Text {
-                anchors.centerIn: parent
-                anchors.verticalCenterOffset: 165
-                anchors.horizontalCenterOffset: 0
-                font.pixelSize: parent.width *.020
-                color: 'white'
-                text: qsTr("<b>Look inside the ~/ezarcher folder for documentation<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
@@ -135,7 +108,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Thank you for trying Ezarcher<br/>")
+                text: qsTr("")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter

@@ -1,4 +1,4 @@
-# Ezarcher custom settings
+# 4rch custom settings
 # SPDX-FileCopyrightText: no
 # SPDX-License-Identifier: CC0-1.0
 #
@@ -123,12 +123,12 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    Ezarcher
+    shortProductName:    4RCH
     version:             2021
     shortVersion:        2021
-    versionedName:       Ezarcher Linux
-    shortVersionedName:  Ezarcher Linux
-    bootloaderEntryName: Ezarcher
+    versionedName:       4RCH Linux
+    shortVersionedName:  4RCH Linux
+    bootloaderEntryName: 4RCH Linux
     productUrl:          https://sourceforge.net/projects/ezarch/
 #   supportUrl:          https://sourceforge.net/projects/ezarch/
 #   knownIssuesUrl:      https://sourceforge.net/projects/ezarch/
