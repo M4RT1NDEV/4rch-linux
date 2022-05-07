@@ -36,3 +36,7 @@ template could be found here: https://sourceforge.net/projects/ezarch/files/Temp
 
 4RCH linux uses calamares installer
 https://calamares.io/
+
+EPIC ANIME SLIDESHOW
+
+<img src="https://i.imgur.com/1elleHZ.png" width="75%" height="75%">
