@@ -5,6 +5,8 @@
 # ISO PASSWORD
 
 The ISO password is: 4rch
+
+(Theres an password due to ezarch using password for some reason by default, this will change in the future)
  	
 # BINARY ISO available here
 
