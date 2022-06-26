@@ -43,4 +43,4 @@ https://calamares.io/
 
 EPIC ANIME SLIDESHOW
 
-<img src="https://i.imgur.com/1elleHZ.png" width="75%" height="75%">
+<img src="https://cdn.discordapp.com/attachments/989526772989177898/989576071282303077/unknown.png" width="75%" height="75%">
