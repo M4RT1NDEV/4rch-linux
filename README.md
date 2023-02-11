@@ -15,7 +15,7 @@ The ISO password is: 4rch
 # BUILD THE ISO
 
 ```
-git clone https://github.com/M4RT1NDEV/4rch-linux
+git clone --recurse-submodules  https://github.com/M4RT1NDEV/4rch-linux
 
 sudo pacman -Syu
 
