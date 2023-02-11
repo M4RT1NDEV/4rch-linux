@@ -25,6 +25,8 @@ sudo pacman -S archiso mkinitcpio-archiso
 
 sudo pacman -S --needed boost cmake extra-cmake-modules libpwquality qt5ct qt5-location qt5-svg qt5-webengine yaml-cpp hwinfo plasma-framework qt5-translations upower kcoreaddons kconfig kpmcore kservice kwidgetsaddons dmidecode doxygen kparts polkit-qt5 python qt5-tools qt5-xmlpatterns solid
 
+cd 4rch-linux
+
 sudo bash steps.sh
 ```
 
